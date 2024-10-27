@@ -34,6 +34,6 @@ Before running the system, ensure you have the following installed:
 
 ## How to Run:
 - make sure all the files are in the same directory
-- then run main.ipynb file in your jupiter notebook
-- after that run "streamlit run app.py" is app.py file terminal
+- then run Main.ipynb file in your jupiter notebook
+- after that run "streamlit run app.py" in app.py file terminal
 - copy and paste the link into your browser.
